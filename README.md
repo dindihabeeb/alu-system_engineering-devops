@@ -1,1 +1,1 @@
-# -alu-system_engineering-devops
+# This directory contains bash scripts using in establishing ssh connections and practising its concepts
